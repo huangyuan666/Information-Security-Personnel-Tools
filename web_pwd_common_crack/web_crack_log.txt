@@ -1,0 +1,16 @@
+??? 验证码 in source: http://www.sdass.net.cn/admin/
+??? 验证码 in source: http://www.0632wl.cn/tj/index.asp
+??? 验证码 in source: http://ggys.lsgx.com.cn/e/master/login.aspx
+??? phpmyadmin possible::http://www.lypyxx.com/phpmyadmin/index.php
+??? 验证码 in source: http://ggys.lsgx.com.cn/e/member/index.aspx?s=1&type=login
+!!! Success url:http://120.26.8.48:8033/Excellent/sign_in.aspx	admin/admin
+??? 验证码 in source: https://219.157.119.13/html/login.html
+!!! Success url:http://coloros.wjx.cn:80/	admin/123456
+!!! Success url:http://cache1.cheping.com.cn:80/login.php	admin/123456
+!!! Success url:http://crm.915hr.com:80/	admin/123456
+!!! Success url:http://bbs.cps800.com:80/	admin/adminadmin
+!!! Success url:http://data.chinajci.com:80/login.asp	test/test
+!!! Success url:http://data.chinajci.com:80/	test/test
+!!! Success url:http://bx.liantuo.com:80/login.jsp	guest/000000
+!!! Success url:http://bm.xmstm.com.cn/login.asp	test/test
+!!! Success url:http://chaozhou.hbrc.com:80/	test/123123

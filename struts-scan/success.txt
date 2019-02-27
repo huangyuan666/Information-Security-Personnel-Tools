@@ -1,0 +1,2 @@
+
+检测struts2漏洞: --help

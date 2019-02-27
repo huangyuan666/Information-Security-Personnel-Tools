@@ -1,0 +1,10 @@
+http://120.26.8.48:8033/Excellent/sign_in.aspx	admin/admin
+http://coloros.wjx.cn:80/	admin/123456
+http://cache1.cheping.com.cn:80/login.php	admin/123456
+http://crm.915hr.com:80/	admin/123456
+http://bbs.cps800.com:80/	admin/adminadmin
+http://data.chinajci.com:80/login.asp	test/test
+http://data.chinajci.com:80/	test/test
+http://bx.liantuo.com:80/login.jsp	guest/000000
+http://bm.xmstm.com.cn/login.asp	test/test
+http://chaozhou.hbrc.com:80/	test/123123
